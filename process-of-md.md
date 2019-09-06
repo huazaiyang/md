@@ -3,7 +3,7 @@
 
 ---
 
-<h2 id="Process of md-file"><code>md</code> File</h2>
+<h2 id="process-of-md-file">Process of <code>md</code> File</h2>
 <h3 id="step-1--log-in-your-github-account-create-a-folder-named-md"><strong>Step 1 :</strong> Log in your github account, create a folder named md</h3>
 <h3 id="step-2--open-httpsstackedit.ioapp"><strong>Step 2 :</strong> Open <a href="https://stackedit.io/app#">https://stackedit.io/app#</a></h3>
 <h3 id="step-3--finish-your-md-file"><strong>Step 3 :</strong> Finish your md file</h3>
