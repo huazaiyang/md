@@ -3,7 +3,7 @@
 
 ---
 
-<h2 id="filename-extention">Filename Extention</h2>
+<h2 id="filename-extention">Filename extention</h2>
 
 <table>
 <thead>
@@ -20,14 +20,9 @@
 <td align="center"><a href="http://ypcloud.md">ypcloud.md</a></td>
 </tr>
 <tr>
-<td align="center">snapcraft</td>
-<td align="center">.snap</td>
-<td align="center">sphere.snap</td>
-</tr>
-<tr>
-<td align="center">Google Play</td>
-<td align="center">.apk</td>
-<td align="center">jujue.apk</td>
+<td align="center">Docker</td>
+<td align="center">.oci</td>
+<td align="center">motebus.oci</td>
 </tr>
 <tr>
 <td align="center">Node-RED</td>
@@ -40,9 +35,14 @@
 <td align="center">jujue.vue</td>
 </tr>
 <tr>
-<td align="center">Docker</td>
-<td align="center">.oci</td>
-<td align="center">motebus.oci</td>
+<td align="center">snapcraft</td>
+<td align="center">.snap</td>
+<td align="center">sphere.snap</td>
+</tr>
+<tr>
+<td align="center">Google Play</td>
+<td align="center">.apk</td>
+<td align="center">jujue.apk</td>
 </tr>
 <tr>
 <td align="center">App Store</td>
